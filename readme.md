@@ -42,9 +42,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gericke98&show_icons=true&theme=radical&hide=stars,prs,issues,contribs&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gericke98&theme=radical&hide_border=true&area=true" alt="Contribution Graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=gericke98&show_icons=false&theme=radical&hide=stars,prs,issues,contribs,repos&count_private=true&hide_title=true&hide_rank=true" alt="GitHub Stats" />
 
 </div>
 

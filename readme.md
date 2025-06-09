@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/santiago-gericke-parga/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/gericke98)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&height=100&lines=Product+Builder;AI+Enthusiast;Full-Stack+Developer;Entrepreneur" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&height=100&lines=Product+Builder;AI+Enthusiast;Full-Stack+Dev;Entrepreneur" alt="Typing SVG" />
 
 </div>
 
@@ -50,7 +50,7 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 <summary>Click to expand achievements</summary>
 
 - **Shameless Collective.** Co-founded a DTC fashion brand, scaled to €10k+/month. Automated all ops — from order processing to invoicing and logistics — with custom-built tools.
-- **Returns Portal.** Built a fully-automated returns portal for Shameless, integrating Shopify, Correos (shipping), and Stripe. Processed 250+ returns/exchanges with highly positive user feedback.
+- **Returns Portal.** Built a fully automated returns portal for Shameless, integrating Shopify, Correos (shipping), and Stripe. Processed 250+ returns/exchanges with highly positive user feedback.
 - **Tayliq.** Built an AI-native customer support app for Shopify brands. Currently validating with early users and in talks with a €90M+ fashion brand.
 - **Ring Size Detection App.** Computer vision tool to estimate ring sizes from hand photos. Built for a jewelry brand with €500k+ annual revenue (currently in validation).
 - **Taxi Dispatch AI System.** Voice-powered dispatch platform for a Radiotaxi company — includes a driver app, geolocation tracking, and AI call handling (in progress).
@@ -67,7 +67,7 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 |        **Tayliq**        |              `Founder`<br>`Remix`<br>`OpenAI API`<br>`Prisma`<br>`Neon`<br>`Drizzle`               | Most support tools are generic and fail to resolve real user problems |            - `95%` of queries resolved             |       [🌐 Visit](https://shamelesscollective.com)       |
 |    **Returns Portal**    | `Solo dev`<br>`Next.js`<br>`Tailwind`<br>`SOAP API`<br>`Vercel`<br>`Stripe`<br>`Neon`<br>`Drizzle` | No flexible platform for fully customized return/exchange experiences |     - `250+` returns with `95%+` satisfaction      | [🌐 Visit](https://www.shamelesscollective-returns.com) |
 |  **Ring Size Detector**  |                `Solo dev`<br>`Next.js`<br>`Tailwind`<br>`OpenAI API`<br>`MediaPipe`                |            High return rates due to incorrect ring sizing             |                       `WIP`                        |        [🌐 Visit](https://tayliqsize.vercel.app)        |
-|   **Taxi Dispatch AI**   |      `Solo dev`<br>`ElevenLabs`<br>`Twilio`<br>`Google Maps API`<br>`Neon`<br>`React Native`       |       Inefficient manual dispatch and poor customer experience        |                       `WIP`                        |         Call +1 (313) 631-4559 and try it live          |
+|   **Taxi Dispatch AI**   |      `Solo dev`<br>`ElevenLabs`<br>`Twilio`<br>`Google Maps API`<br>`Neon`<br>`React Native`       |       Inefficient manual dispatch and poor customer experience        |                       `WIP`                        |           [📞 Try It Live](tel:+13136314559)            |
 
 </div>
 
@@ -82,7 +82,7 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 - **Co-founder – Shameless Collective** – _2016–present._ Bootstrapped DTC fashion brand, now operating at €10k+ monthly revenue.
 - **Senior Data Associate – Monstarlab / Metyis** – _2022–2025._ Led the development of advanced analytics and forecasting models for global F&B clients.
 - **Industrial Engineering & MBA** – ICAI / ICADE
-- 20+ side projects across full-stack & AI product building
+- 20+ side projects in full-stack & AI, focused on solving real-world problems
 
 </details>
 
@@ -96,7 +96,7 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 | ---------------------------- | ----------------------------- | ---------------------- | ------------------- | ---------------- |
 | Building real things fast    | Bureaucracy                   | Full-stack prototyping | Saying "no" earlier | Async-first      |
 | Working with ambitious teams | Ego-driven decisions          | Clear communication    | Delegating more     | Hands-on builder |
-| Solving real user pain       | Over-polish before validating | Business-code balance  |                     | Clarity-driven   |
+| Solving real user pain       | Over-polish before validating | Business-code balance  |                     | Clarity-obsessed |
 
 </div>
 
@@ -112,14 +112,4 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 
 ### 🌟 Vision
 
-I joined Go Exponential to build alongside the best in the world. I see myself in 5 years leading a startup or dev team creating tools that give humans leverage through AI. Building in the US—especially in SF—means being surrounded by energy, speed, and the mindset I want to keep for life.
-
----
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/Website-santiago--gericke.dev-2ea44f)](https://www.santiago-gericke.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/santiago-gericke-parga/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/santigericke)
-
-</div>
+I joined Go Exponential to move faster, think bigger, and build alongside the best in the world. In 5 years, I see myself leading a high-impact startup or dev team, building tools that multiply human potential through AI. Being in the US — especially SF — means staying close to the frontier: where the mindset is bold, the speed is real, and the default is to build the future.

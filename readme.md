@@ -4,11 +4,15 @@
 
 [![Website](https://img.shields.io/badge/Website-santiago--gericke.dev-2ea44f)](https://www.santiago-gericke.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/santiago-gericke-parga/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/santigericke)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/gericke98)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&height=100&lines=Product+Builder;AI+Enthusiast;Full-Stack+Developer;Entrepreneur" alt="Typing SVG" />
 
 </div>
 
 ## 🚀 Tech Stack
+
+<div align="center">
 
 **Best with:**  
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -24,11 +28,23 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white)
 
+</div>
+
+<div align="center">
+
 > 💡 **TL;DR** – I'm a Spanish product builder with a business brain and an entrepreneurial heart. I co-founded Shameless Collective, a DTC clothing brand doing €10k+ in monthly sales, spent 4 years in consulting, and dedicated the past year to building full-stack AI solutions - identifying real problems, shipping fast, and getting into the hands of enterprise clients (>€90M in revenue).
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=santigericke&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+</div>
 
 I build at the intersection of AI, entrepreneurship, and product design — driven by the need to solve real problems with speed and impact. I first turned to software to scale myself beyond what time allowed — and quickly realized it was the most powerful leverage a builder can have.
 
@@ -36,13 +52,20 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 
 ### 🏆 Main Achievements
 
+<details>
+<summary>Click to expand achievements</summary>
+
 - **Shameless Collective.** Co-founded a DTC fashion brand, scaled to €10k+/month. Automated all ops — from order processing to invoicing and logistics — with custom-built tools.
 - **Returns Portal.** Built a fully-automated returns portal for Shameless, integrating Shopify, Correos (shipping), and Stripe. Processed 250+ returns/exchanges with highly positive user feedback.
 - **Tayliq.** Built an AI-native customer support app for Shopify brands. Currently validating with early users and in talks with a €90M+ fashion brand.
 - **Ring Size Detection App.** Computer vision tool to estimate ring sizes from hand photos. Built for a jewelry brand with €500k+ annual revenue (currently in validation).
 - **Taxi Dispatch AI System.** Voice-powered dispatch platform for a Radiotaxi company — includes a driver app, geolocation tracking, and AI call handling (in progress).
 
+</details>
+
 ### 🛠️ Most-Prideful Builds
+
+<div align="center">
 
 | Project                     | Role & stack                                                                | Problem                                                               | Solution                                                                                                        | Impact                                                        | Live Demo                                                                          |
 | --------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
@@ -52,9 +75,14 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 | **Ring Size Detector**      | Solo dev · Next.js · Tailwind · OpenAI API · MediaPipe                      | High return rates due to incorrect ring sizing                        | Developed a computer vision tool to estimate ring size from hand photos, reducing sizing errors pre-purchase    | WIP                                                           | [tayliqsize.vercel.app](https://tayliqsize.vercel.app)                             |
 | **Taxi Dispatch AI System** | Solo dev · ElevenLabs · Twilio · Google Maps API · Neon · React Native      | Inefficient manual dispatch and poor customer experience              | Built an AI voice assistant and real-time driver tracking system to fully automate call routing and assignments | WIP                                                           | Call +1 (313) 631-4559 and try it live                                             |
 
+</div>
+
 > _Everything you see is built, designed, and shipped by me._
 
 ### 📈 Experience (TL;DR)
+
+<details>
+<summary>Click to expand experience</summary>
 
 - **CEO / Co-founder – Tayliq** – _2025–present._ Building a customer support platform for DTC brands. Currently in talks to deploy with a €90M+ fashion brand.
 - **Co-founder – Shameless Collective** – _2016–present._ Bootstrapped DTC fashion brand, now operating at €10k+ monthly revenue.
@@ -62,15 +90,21 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 - **Industrial Engineering & MBA** – ICAI / ICADE
 - 20+ side projects across full-stack & AI product building
 
+</details>
+
 ---
 
 ## ⚡ How I Work
 
-- **Gets me pumped:** building real things fast · working with ambitious teams · solving real user pain
-- **Disappoints me:** bureaucracy · ego-driven decisions · over-polish before validating
-- **Strengths:** full-stack prototyping · clear communication · balancing business needs with code
-- **Improvement points:** saying "no" earlier · delegating instead of doing everything myself
-- **Known behaviours / comms style:** inbox-zero · hands-on builder
+<div align="center">
+
+| 🎯 Goals                     | 🚫 Avoid                      | 💪 Strengths           | 📈 Growth           | 🎨 Style         |
+| ---------------------------- | ----------------------------- | ---------------------- | ------------------- | ---------------- |
+| Building real things fast    | Bureaucracy                   | Full-stack prototyping | Saying "no" earlier | Async-first      |
+| Working with ambitious teams | Ego-driven decisions          | Clear communication    | Delegating more     | Hands-on builder |
+| Solving real user pain       | Over-polish before validating | Business-code balance  |                     | Clarity-driven   |
+
+</div>
 
 ---
 
@@ -78,7 +112,13 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 
 ### 🎹 Personal
 
-- I play the piano 🎹, love padel, and co-run a fashion brand with two friends.
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=santigericke&theme=radical" alt="GitHub Streak" />
+
+</div>
+
+- I play the piano, love padel, and co-run a fashion brand with two friends.
 - I value speed, transparency, and high agency.
 - I'm from Spain 🇪🇸 but have one foot in SF since studying at Santa Clara University.
 
@@ -93,5 +133,7 @@ I joined Go Exponential to build alongside the best in the world. I see myself i
 [![Website](https://img.shields.io/badge/Website-santiago--gericke.dev-2ea44f)](https://www.santiago-gericke.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/santiago-gericke-parga/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/santigericke)
+
+<img src="https://komarev.com/ghpvc/?username=santigericke&style=flat-square&color=blue" alt="Profile Views"/>
 
 </div>

@@ -106,12 +106,6 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 
 ### 🎹 Personal
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=santigericke&theme=radical" alt="GitHub Streak" />
-
-</div>
-
 - I play the piano, love padel, and co-run a fashion brand with two friends.
 - I value speed, transparency, and high agency.
 - I'm from Spain 🇪🇸 but have one foot in SF since studying at Santa Clara University.
@@ -127,7 +121,5 @@ I joined Go Exponential to build alongside the best in the world. I see myself i
 [![Website](https://img.shields.io/badge/Website-santiago--gericke.dev-2ea44f)](https://www.santiago-gericke.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/santiago-gericke-parga/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/santigericke)
-
-<img src="https://komarev.com/ghpvc/?username=santigericke&style=flat-square&color=blue" alt="Profile Views"/>
 
 </div>

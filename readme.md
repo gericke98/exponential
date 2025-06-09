@@ -94,9 +94,9 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 
 | 🎯 Goals                     | 🚫 Avoid                      | 💪 Strengths           | 📈 Growth           | 🎨 Style         |
 | ---------------------------- | ----------------------------- | ---------------------- | ------------------- | ---------------- |
-| Building real things fast    | Bureaucracy                   | Full-stack prototyping | Saying "no" earlier | Async-first      |
+| Building things fast         | Bureaucracy                   | Full-stack prototyping | Saying "no" earlier | Async-first      |
 | Working with ambitious teams | Ego-driven decisions          | Clear communication    | Delegating more     | Hands-on builder |
-| Solving real user pain       | Over-polish before validating | Business-code balance  |                     | Clarity-obsessed |
+| Solving real user pain       | Over-polish before validating | Business-code balance  | Designing for scale | Clarity-obsessed |
 
 </div>
 

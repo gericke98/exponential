@@ -40,12 +40,6 @@
 
 ## 👨‍💻 About Me
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gericke98&show_icons=false&theme=radical&hide=stars,prs,issues,contribs,repos&count_private=true&hide_title=true&hide_rank=true" alt="GitHub Stats" />
-
-</div>
-
 I build at the intersection of AI, entrepreneurship, and product design — driven by the need to solve real problems with speed and impact. I first turned to software to scale myself beyond what time allowed — and quickly realized it was the most powerful leverage a builder can have.
 
 As AI reshapes the world, I've focused on becoming a truly hybrid profile: someone who can build, sell, and explain — with the belief that the best builders of this era will speak both machine and human.
@@ -67,13 +61,13 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 
 <div align="center">
 
-|         Project          |                                        Role & Stack                                         |                                Problem                                |                                                    Solution                                                     |                     Impact                     |                       Live Demo                        |
-| :----------------------: | :-----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: | :--------------------------------------------: | :----------------------------------------------------: |
-| **Shameless Collective** |                     `Founder` · `Ops & Tech` · `Shopify GQL` · `Liquid`                     |   Lack of original, high-quality streetwear from emerging creators    |              Launched a DTC brand and built custom backend tools to scale and automate operations               | `€10k+` monthly revenue<br>`80%` automated ops |      [🌐 Visit](https://shamelesscollective.com)       |
-|        **Tayliq**        |             `Founder` · `Remix` · `OpenAI API` · `Prisma` · `Neon` · `Drizzle`              | Most support tools are generic and fail to resolve real user problems |  Built an AI-native Shopify app that understands intent and performs actions like changing delivery addresses   |           `95%` of queries resolved            |   [🤖 Try Chatbot](https://shamelesscollective.com)    |
-|    **Returns Portal**    | `Solo dev` · `Next.js` · `Tailwind` · `SOAP API` · `Vercel` · `Stripe` · `Neon` · `Drizzle` | No flexible platform for fully customized return/exchange experiences |        Created a fully automated return/exchange portal with seamless logistics and payment integration         |     `250+` returns<br>`95%+` satisfaction      | [📦 View](https://www.shamelesscollective-returns.com) |
-|  **Ring Size Detector**  |              `Solo dev` · `Next.js` · `Tailwind` · `OpenAI API` · `MediaPipe`               |            High return rates due to incorrect ring sizing             |  Developed a computer vision tool to estimate ring size from hand photos, reducing sizing errors pre-purchase   |                     `WIP`                      |        [📏 Try](https://tayliqsize.vercel.app)         |
-|   **Taxi Dispatch AI**   |     `Solo dev` · `ElevenLabs` · `Twilio` · `Google Maps API` · `Neon` · `React Native`      |       Inefficient manual dispatch and poor customer experience        | Built an AI voice assistant and real-time driver tracking system to fully automate call routing and assignments |                     `WIP`                      |              [📞 Call](tel:+13136314559)               |
+|         Project          |                                        Role & Stack                                         |                                Problem                                |                     Impact                     |                        Live Demo                        |
+| :----------------------: | :-----------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------------: |
+| **Shameless Collective** |                     `Founder` · `Ops & Tech` · `Shopify GQL` · `Liquid`                     |   Lack of original, high-quality streetwear from emerging creators    | `€10k+` monthly revenue<br>`80%` automated ops |       [🌐 Visit](https://shamelesscollective.com)       |
+|        **Tayliq**        |             `Founder` · `Remix` · `OpenAI API` · `Prisma` · `Neon` · `Drizzle`              | Most support tools are generic and fail to resolve real user problems |           `95%` of queries resolved            |       [🌐 Visit](https://shamelesscollective.com)       |
+|    **Returns Portal**    | `Solo dev` · `Next.js` · `Tailwind` · `SOAP API` · `Vercel` · `Stripe` · `Neon` · `Drizzle` | No flexible platform for fully customized return/exchange experiences |     `250+` returns<br>`95%+` satisfaction      | [🌐 Visit](https://www.shamelesscollective-returns.com) |
+|  **Ring Size Detector**  |              `Solo dev` · `Next.js` · `Tailwind` · `OpenAI API` · `MediaPipe`               |            High return rates due to incorrect ring sizing             |                     `WIP`                      |        [🌐 Visit](https://tayliqsize.vercel.app)        |
+|   **Taxi Dispatch AI**   |     `Solo dev` · `ElevenLabs` · `Twilio` · `Google Maps API` · `Neon` · `React Native`      |       Inefficient manual dispatch and poor customer experience        |                     `WIP`                      |         Call +1 (313) 631-4559 and try it live          |
 
 </div>
 

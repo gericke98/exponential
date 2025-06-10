@@ -126,12 +126,12 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 - 🎵 Started playing piano at 7. When I'm not coding, you'll catch me on the padel court or cheering for Real Madrid.
 - 👕 Co-founded Shameless Collective with two friends a few years ago - still get a kick out of seeing strangers wearing our designs on the street.
 - 🌍 Spanish at heart, but I've got a thing for Silicon Valley's energy from my time at Santa Clara University.
-- 💭 I'm all about building things that matter. No fluff, just execution. My motto? "Work in silence, let success make the noise."
+- 💭 I'm all about building things that matter. No fluff, just execution. My motto? "Fall in love with the problem, not the solution"
 
-### 🌟 Vision
+### 🌟 Mission
 
-I was born with this relentless itch to build things and solve problems. I genuinely love the process — not just the end result, but the entire journey of creating something from nothing and growing along the way.
+My work is driven by a relentless itch to build things and solve problems. It's the force that led me to co-found a DTC brand from scratch, automate its operations, and later dive headfirst into building full-stack AI solutions. I'm obsessed with the entire process of turning an idea into something real.
 
-Growing up in Spain, I've witnessed our incredible talent firsthand, but also seen how we don't always have the right environment to nurture it. That's what's driving me to the US — to grow, learn, and eventually bring that knowledge back home.
+Growing up in Spain, I've witnessed our incredible talent firsthand, but also seen how we don't always have the right environment to nurture it. That's what's driving me to the US — to learn from the best, build a strong network and eventually bring that knowledge back home.
 
-My dream isn't just to help Spanish entrepreneurs — it's to prove that the next wave of global tech innovation can come from anywhere. I want to build the infrastructure that turns Spain into Europe's answer to Silicon Valley.
+My goal isn't to replicate Silicon Valley, but to help build our own version of it: A tech hub with its own Spanish identity, one where any Spanish builder with ambition has the tools and confidence to compete, and win, on the world stage.

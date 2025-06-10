@@ -32,7 +32,7 @@
 
 <div align="center">
 
-> 💡 **TL;DR** – I'm a Spanish product builder with a business brain and an entrepreneurial heart. I co-founded Shameless Collective, a DTC clothing brand doing €10k+ in monthly sales, spent 4 years in consulting, and dedicated the past year to building full-stack AI solutions - identifying real problems, shipping fast, and landing enterprise clients (>€90M in revenue).
+> 💡 **TL;DR** – I'm a Spanish product builder with a business brain and an entrepreneurial heart. I co-founded Shameless Collective, a DTC clothing brand doing €10k+ in monthly sales, spent 4 years in consulting, and dedicated the past year to building full-stack AI solutions - identifying real problems, shipping fast, and landing enterprise clients within multiple industries.
 
 </div>
 
@@ -40,9 +40,9 @@
 
 ## 👨‍💻 About Me
 
-I build at the intersection of AI, entrepreneurship, and product design — driven by the desire to solve real problems with speed and impact. I first turned to software to scale myself beyond time constraints, and quickly realized it's the most powerful multiplier a builder can have.
+I build at the intersection of AI, entrepreneurship, and product design — driven by the desire to solve real problems with speed and impact. I first turned to software to scale my productivity beyond time constraints, and quickly realized it's the most powerful multiplier a builder can have.
 
-As AI reshapes the world, I've focused on becoming a truly hybrid profile: someone who can spot opportunities, build solutions, and communicate their value — believing the best builders of this era will speak both machine and human.
+As AI reshapes the world, I've focused on becoming a truly hybrid profile: someone who can spot opportunities, build solutions, and communicate their value. I believe the best builders of this era will speak both machine and human.
 
 ### 🏆 Main Achievements
 
@@ -127,10 +127,11 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 - 👕 Co-founded Shameless Collective with two friends a few years ago - still get a kick out of seeing strangers wearing our designs on the street.
 - 🌍 Spanish at heart, but I've got a thing for Silicon Valley's energy from my time at Santa Clara University.
 - 💭 I'm all about building things that matter. No fluff, just execution. My motto? "Work in silence, let success make the noise."
-- 🎯 Morning ritual: strong cortado, clear goals, and a drive to make an impact. Whether it's coding, designing, or strategizing, I'm in it to win it.
 
 ### 🌟 Vision
 
-I was born with this itch to build things and solve problems. Yeah, sometimes I work too much, but I genuinely love the process. It's not just about the end result - it's about the journey of creating something from nothing and growing in the process
+I was born with this relentless itch to build things and solve problems. I genuinely love the process — not just the end result, but the entire journey of creating something from nothing and growing along the way.
 
-Growing up in Spain, I've seen firsthand how we have incredible talent but not always the right environment to nurture it. That's why I'm heading to the US - to grow, learn, and eventually bring that knowledge back home. My dream? To create something that moves the needle in Spain and help young Spanish entrepreneurs succeed, just like Go Exponential is doing for me.
+Growing up in Spain, I've witnessed our incredible talent firsthand, but also seen how we don't always have the right environment to nurture it. That's what's driving me to the US — to grow, learn, and eventually bring that knowledge back home.
+
+My dream isn't just to help Spanish entrepreneurs — it's to prove that the next wave of global tech innovation can come from anywhere. I want to build the infrastructure that turns Spain into Europe's answer to Silicon Valley.

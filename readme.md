@@ -52,7 +52,7 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 - **Shameless Collective.** Co-founded a DTC fashion brand, scaled to €10k+/month. Automated all ops — from order processing to invoicing and logistics — with custom-built tools.
 - **Returns Portal.** Built a fully automated returns portal for Shameless, integrating Shopify, Correos (shipping), and Stripe. Processed 250+ returns/exchanges with highly positive user feedback.
 - **Tayliq.** Built an AI-native customer support app for Shopify brands. Currently validating with early users and in talks with a €90M+ fashion brand.
-- **Ring Size Detection App.** Computer vision tool to estimate ring sizes from hand photos. Built for a jewelry brand with €500k+ annual revenue (currently in validation).
+- **Ring Size Detection App.** Computer vision tool to estimate ring sizes from hand photos. Built for a jewelry brand with €500k+ annual revenue (in progress).
 - **Taxi Dispatch AI System.** Voice-powered dispatch platform for a Radiotaxi company — includes a driver app, geolocation tracking, and AI call handling (in progress).
 
 </details>
@@ -63,7 +63,7 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 
 |         Project          |                                            Role & Stack                                            |                                          Problem                                           |                                                           Impact                                                           |                      Live Demo                       |
 | :----------------------: | :------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------: |
-| **Shameless Collective** |                       `Founder`<br>`Ops & Tech`<br>`Shopify GQL`<br>`Liquid`                       |       Young people eager to express themselves through bold, high-quality streetwear       |                                     • `€10k+` monthly revenue<br>• `90%` automated ops                                     |       [Visit](https://shamelesscollective.com)       |
+| **Shameless Collective** |                        `Founder / Ops & Tech`<br>`Shopify GQL`<br>`Liquid`                         |       Young people eager to express themselves through bold, high-quality streetwear       |                                     • `€10k+` monthly revenue<br>• `90%` automated ops                                     |       [Visit](https://shamelesscollective.com)       |
 |        **Tayliq**        |              `Founder`<br>`Remix`<br>`OpenAI API`<br>`Prisma`<br>`Neon`<br>`Drizzle`               |      Most support tools are generic and rigid, failing to resolve real user problems       | • `95%` of queries resolved without human intervention<br>• `10%` increase in returning customers after automating support |       [Visit](https://shamelesscollective.com)       |
 |    **Returns Portal**    | `Solo dev`<br>`Next.js`<br>`Tailwind`<br>`SOAP API`<br>`Vercel`<br>`Stripe`<br>`Neon`<br>`Drizzle` |           No flexible platform for fully customized return/exchange experiences            |                                         • `250+` returns<br>• `95%+` satisfaction                                          | [Visit](https://www.shamelesscollective-returns.com) |
 |  **Ring Size Detector**  |                `Solo dev`<br>`Next.js`<br>`Tailwind`<br>`OpenAI API`<br>`MediaPipe`                | High return rates due to incorrect ring sizing and conversion losses from size uncertainty |                                                           `WIP`                                                            |        [Visit](https://tayliqsize.vercel.app)        |
@@ -78,11 +78,28 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 <details>
 <summary>Click to expand experience</summary>
 
-- **CEO / Co-founder – Tayliq** – _2025–present._ Building a customer support platform for DTC brands. Currently in talks to deploy with a €90M+ fashion brand.
-- **Co-founder – Shameless Collective** – _2016–present._ Bootstrapped DTC fashion brand, now operating at €10k+ monthly revenue.
-- **Senior Data Associate – Monstarlab / Metyis** – _2022–2025._ Led the development of advanced analytics and forecasting models for global F&B clients.
-- **Industrial Engineering & MBA** – ICAI / ICADE
-- 20+ side projects in full-stack & AI, focused on solving real-world problems
+#### 🚀 Current Ventures
+
+- **CEO & Co-founder @ Tayliq** _(2025–present)_  
+  Building an AI-native customer support platform for DTC brands. Currently in advanced discussions with a €90M+ fashion brand for deployment.
+
+- **Co-founder @ Shameless Collective** _(2016–present)_  
+  Bootstrapped a DTC streetwear brand from zero to €10k+ monthly revenue. Built and automated core operations including order processing, logistics, and customer service.
+
+#### 💼 Professional Experience
+
+- **Senior Data Associate @ Monstarlab / Metyis** _(2022–2025)_  
+  Led development of advanced analytics and forecasting models for global F&B clients, driving data-driven decision making across multiple markets.
+
+#### 🎓 Education
+
+- **Industrial Engineering & MBA**  
+  ICAI / ICADE
+
+#### 🛠️ Side Projects
+
+- Built 20+ full-stack & AI projects focused on solving real-world problems
+- Specialized in rapid prototyping and shipping MVPs
 
 </details>
 

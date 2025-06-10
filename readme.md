@@ -114,6 +114,6 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 
 ### 🌟 Vision
 
-ºI was born with this itch to build things and solve problems. Yeah, sometimes I work too much, but I genuinely love the process. It's not just about the end result - it's about the journey of creating something from nothing and growing in the process
+I was born with this itch to build things and solve problems. Yeah, sometimes I work too much, but I genuinely love the process. It's not just about the end result - it's about the journey of creating something from nothing and growing in the process
 
 Growing up in Spain, I've seen firsthand how we have incredible talent but not always the right environment to nurture it. That's why I'm heading to the US - to grow, learn, and eventually bring that knowledge back home. My dream? To create something that moves the needle in Spain and help young Spanish entrepreneurs succeed, just like Go Exponential is doing for me.

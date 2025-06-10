@@ -121,7 +121,7 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 
 ## 🎯 Beyond the Code
 
-### 🎹 Personal
+### Personal
 
 - 🎵 Started playing piano at 7. When I'm not coding, you'll catch me on the padel court or cheering for Real Madrid.
 - 👕 Co-founded Shameless Collective with two friends a few years ago - still get a kick out of seeing strangers wearing our designs on the street.

@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/santiago-gericke-parga/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/gericke98)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&height=100&lines=Product+Builder;AI+Enthusiast;Full-Stack+Dev;Entrepreneur" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&height=100&lines=Product+Builder;AI+Trailblazer;Full-Stack+Dev;Entrepreneur" alt="Typing SVG" />
 
 </div>
 
@@ -32,7 +32,7 @@
 
 <div align="center">
 
-> 💡 **TL;DR** – I'm a Spanish product builder with a business brain and an entrepreneurial heart. I co-founded Shameless Collective, a DTC clothing brand doing €10k+ in monthly sales, spent 4 years in consulting, and dedicated the past year to building full-stack AI solutions - identifying real problems, shipping fast, and getting into the hands of enterprise clients (>€90M in revenue).
+> 💡 **TL;DR** – I'm a Spanish product builder with a business brain and an entrepreneurial heart. I co-founded Shameless Collective, a DTC clothing brand doing €10k+ in monthly sales, spent 4 years in consulting, and dedicated the past year to building full-stack AI solutions - identifying real problems, shipping fast, and landing enterprise clients (>€90M in revenue).
 
 </div>
 
@@ -40,9 +40,9 @@
 
 ## 👨‍💻 About Me
 
-I build at the intersection of AI, entrepreneurship, and product design — driven by the need to solve real problems with speed and impact. I first turned to software to scale myself beyond what time allowed — and quickly realized it was the most powerful leverage a builder can have.
+I build at the intersection of AI, entrepreneurship, and product design — driven by the desire to solve real problems with speed and impact. I first turned to software to scale myself beyond time constraints, and quickly realized it's the most powerful multiplier a builder can have.
 
-As AI reshapes the world, I've focused on becoming a truly hybrid profile: someone who can build, sell, and explain — with the belief that the best builders of this era will speak both machine and human.
+As AI reshapes the world, I've focused on becoming a truly hybrid profile: someone who can spot opportunities, build solutions, and communicate their value — believing the best builders of this era will speak both machine and human.
 
 ### 🏆 Main Achievements
 
@@ -61,13 +61,13 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 
 <div align="center">
 
-|         Project          |                                            Role & Stack                                            |                                Problem                                |                       Impact                       |                      Live Demo                       |
-| :----------------------: | :------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :------------------------------------------------: | :--------------------------------------------------: |
-| **Shameless Collective** |                       `Founder`<br>`Ops & Tech`<br>`Shopify GQL`<br>`Liquid`                       |   Lack of original, high-quality streetwear from emerging creators    | • `€10k+` monthly revenue<br>• `90%` automated ops |       [Visit](https://shamelesscollective.com)       |
-|        **Tayliq**        |              `Founder`<br>`Remix`<br>`OpenAI API`<br>`Prisma`<br>`Neon`<br>`Drizzle`               | Most support tools are generic and fail to resolve real user problems |            • `95%` of queries resolved             |       [Visit](https://shamelesscollective.com)       |
-|    **Returns Portal**    | `Solo dev`<br>`Next.js`<br>`Tailwind`<br>`SOAP API`<br>`Vercel`<br>`Stripe`<br>`Neon`<br>`Drizzle` | No flexible platform for fully customized return/exchange experiences |     • `250+` returns<br>• `95%+` satisfaction      | [Visit](https://www.shamelesscollective-returns.com) |
-|  **Ring Size Detector**  |                `Solo dev`<br>`Next.js`<br>`Tailwind`<br>`OpenAI API`<br>`MediaPipe`                |            High return rates due to incorrect ring sizing             |                       `WIP`                        |        [Visit](https://tayliqsize.vercel.app)        |
-|   **Taxi Dispatch AI**   |      `Solo dev`<br>`ElevenLabs`<br>`Twilio`<br>`Google Maps API`<br>`Neon`<br>`React Native`       |       Inefficient manual dispatch and poor customer experience        |                       `WIP`                        |    [📞 Call +1 (313) 631-4559](tel:+13136314559)     |
+|         Project          |                                            Role & Stack                                            |                                          Problem                                           |                                                           Impact                                                           |                      Live Demo                       |
+| :----------------------: | :------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------: |
+| **Shameless Collective** |                       `Founder`<br>`Ops & Tech`<br>`Shopify GQL`<br>`Liquid`                       |       Young people eager to express themselves through bold, high-quality streetwear       |                                     • `€10k+` monthly revenue<br>• `90%` automated ops                                     |       [Visit](https://shamelesscollective.com)       |
+|        **Tayliq**        |              `Founder`<br>`Remix`<br>`OpenAI API`<br>`Prisma`<br>`Neon`<br>`Drizzle`               |      Most support tools are generic and rigid, failing to resolve real user problems       | • `95%` of queries resolved without human intervention<br>• `10%` increase in returning customers after automating support |       [Visit](https://shamelesscollective.com)       |
+|    **Returns Portal**    | `Solo dev`<br>`Next.js`<br>`Tailwind`<br>`SOAP API`<br>`Vercel`<br>`Stripe`<br>`Neon`<br>`Drizzle` |           No flexible platform for fully customized return/exchange experiences            |                                         • `250+` returns<br>• `95%+` satisfaction                                          | [Visit](https://www.shamelesscollective-returns.com) |
+|  **Ring Size Detector**  |                `Solo dev`<br>`Next.js`<br>`Tailwind`<br>`OpenAI API`<br>`MediaPipe`                | High return rates due to incorrect ring sizing and conversion losses from size uncertainty |                                                           `WIP`                                                            |        [Visit](https://tayliqsize.vercel.app)        |
+|   **Taxi Dispatch AI**   |      `Solo dev`<br>`ElevenLabs`<br>`Twilio`<br>`Google Maps API`<br>`Neon`<br>`React Native`       |                  Inefficient manual dispatch and poor customer experience                  |                                                           `WIP`                                                            |    [📞 Call +1 (313) 631-4559](tel:+13136314559)     |
 
 </div>
 
@@ -92,11 +92,11 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 
 <div align="center">
 
-| 🎯 Goals                     | 🚫 Avoid                      | 💪 Strengths           | 📈 Growth           | 🎨 Style         |
-| ---------------------------- | ----------------------------- | ---------------------- | ------------------- | ---------------- |
-| Building things fast         | Bureaucracy                   | Full-stack prototyping | Saying "no" earlier | Async-first      |
-| Working with ambitious teams | Ego-driven decisions          | Clear communication    | Delegating more     | Hands-on builder |
-| Solving real user pain       | Over-polish before validating | Business-code balance  | Designing for scale | Clarity-obsessed |
+| 🎯 Goals                     | 🚫 Avoid                      | 💪 Strengths           | 📈 Growth           | 🎨 Style                      |
+| ---------------------------- | ----------------------------- | ---------------------- | ------------------- | ----------------------------- |
+| Building things fast         | Bureaucracy                   | Full-stack prototyping | Saying "no" earlier | Fall in love with the problem |
+| Working with ambitious teams | Ego-driven decisions          | Clear communication    | Delegating more     | Hands-on builder              |
+| Solving real user pain       | Over-polish before validating | Business-code balance  | Designing for scale | Clarity-obsessed              |
 
 </div>
 
@@ -106,10 +106,14 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 
 ### 🎹 Personal
 
-- I play the piano, love padel, and co-run a fashion brand with two friends.
-- I value speed, transparency, and high agency.
-- I'm from Spain 🇪🇸 but have one foot in SF since studying at Santa Clara University.
+- 🎵 Started playing piano at 7. When I'm not coding, you'll catch me on the padel court or cheering for Real Madrid.
+- 👕 Co-founded Shameless Collective with two friends a few years ago - still get a kick out of seeing strangers wearing our designs on the street.
+- 🌍 Spanish at heart, but I've got a thing for Silicon Valley's energy from my time at Santa Clara University.
+- 💭 I'm all about building things that matter. No fluff, just execution. My motto? "Work in silence, let success make the noise."
+- 🎯 Morning ritual: strong cortado, clear goals, and a drive to make an impact. Whether it's coding, designing, or strategizing, I'm in it to win it.
 
 ### 🌟 Vision
 
-I joined Go Exponential to move faster, think bigger, and build alongside the best in the world. In 5 years, I see myself leading a high-impact startup or dev team, building tools that multiply human potential through AI. Being in the US — especially SF — means staying close to the frontier: where the mindset is bold, the speed is real, and the default is to build the future.
+ºI was born with this itch to build things and solve problems. Yeah, sometimes I work too much, but I genuinely love the process. It's not just about the end result - it's about the journey of creating something from nothing and growing in the process
+
+Growing up in Spain, I've seen firsthand how we have incredible talent but not always the right environment to nurture it. That's why I'm heading to the US - to grow, learn, and eventually bring that knowledge back home. My dream? To create something that moves the needle in Spain and help young Spanish entrepreneurs succeed, just like Go Exponential is doing for me.

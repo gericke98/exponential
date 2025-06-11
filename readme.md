@@ -32,16 +32,11 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 
 ### 🏆 Main Achievements
 
-<details>
-<summary>Click to expand achievements</summary>
-
 - **Shameless Collective.** Co-founded a DTC fashion brand, scaled to €10k+/month. Automated all ops — from order processing to invoicing and logistics — with custom-built tools.
 - **Returns Portal.** Built a fully automated returns portal for Shameless, integrating Shopify, Correos (shipping), and Stripe. Processed 250+ returns/exchanges with highly positive user feedback.
 - **Tayliq.** Built an AI-native customer support app for Shopify brands. Currently validating with early users and in talks with a €90M+ fashion brand.
 - **Ring Size Detection App.** Computer vision tool to estimate ring sizes from hand photos. Built for a jewelry brand with €500k+ annual revenue (in progress).
 - **Taxi Dispatch AI System.** Voice-powered dispatch platform for a Radiotaxi company — includes a driver app, geolocation tracking, and AI call handling (in progress).
-
-</details>
 
 ### 🛠️ Most-Prideful Builds
 
@@ -56,9 +51,6 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 > _Everything you see is built, designed, and shipped by me._
 
 ### 📈 Experience (TL;DR)
-
-<details>
-<summary>Click to expand experience</summary>
 
 #### 🚀 Current Ventures
 
@@ -82,8 +74,6 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 
 - Built 20+ full-stack & AI projects focused on solving real-world problems
 - Specialized in rapid prototyping and shipping MVPs
-
-</details>
 
 ---
 

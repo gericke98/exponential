@@ -1,18 +1,10 @@
 # Santiago Gericke Parga
 
-<div align="center">
-
 [![Website](https://img.shields.io/badge/Website-santiago--gericke.dev-2ea44f)](https://www.santiago-gericke.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/santiago-gericke-parga/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey)](https://github.com/gericke98)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&height=100&lines=Product+Builder;AI+Trailblazer;Full-Stack+Dev;Entrepreneur" alt="Typing SVG" />
-
-</div>
-
 ## 🚀 Tech Stack
-
-<div align="center">
 
 **Best with:**  
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -28,13 +20,7 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-FF6B6B?style=for-the-badge&logo=langchain&logoColor=white)
 
-</div>
-
-<div align="center">
-
 > 💡 **TL;DR** – I'm a Spanish product builder with a business brain and an entrepreneurial heart. I co-founded Shameless Collective, a DTC clothing brand doing €10k+ in monthly sales, spent 4 years in consulting, and dedicated the past year to building full-stack AI solutions - identifying real problems, shipping fast, and landing enterprise clients within multiple industries.
-
-</div>
 
 ---
 
@@ -59,8 +45,6 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 
 ### 🛠️ Most-Prideful Builds
 
-<div align="center">
-
 |         Project          |          Role          |                                        Stack                                         |                                          Problem                                           |                                                           Impact                                                           |                      Live Demo                       |                                                                                                  Video                                                                                                   |
 | :----------------------: | :--------------------: | :----------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **Shameless Collective** | `Founder / Ops & Tech` |                              `Shopify GQL`<br>`Liquid`                               |       Young people eager to express themselves through bold, high-quality streetwear       |                                     • `€10k+` monthly revenue<br>• `90%` automated ops                                     |       [Visit](https://shamelesscollective.com)       |                                                                                                                                                                                                          |
@@ -68,8 +52,6 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 |    **Returns Portal**    |       `Solo dev`       | `Next.js`<br>`Tailwind`<br>`SOAP API`<br>`Vercel`<br>`Stripe`<br>`Neon`<br>`Drizzle` |           No flexible platform for fully customized return/exchange experiences            |                                         • `250+` returns<br>• `95%+` satisfaction                                          | [Visit](https://www.shamelesscollective-returns.com) |                                                        [Demo](https://drive.google.com/file/d/1Q06flYzfbhW5MXoCj8GFTWzi8soDdH69/view?usp=sharing)                                                        |
 |  **Ring Size Detector**  |       `Solo dev`       |                `Next.js`<br>`Tailwind`<br>`OpenAI API`<br>`MediaPipe`                | High return rates due to incorrect ring sizing and conversion losses from size uncertainty |                                                           `WIP`                                                            |        [Visit](https://tayliqsize.vercel.app)        |                                                        [Demo](https://drive.google.com/file/d/1UdaFq1e0Fci6HPnmm5085KDkMkcYb-j9/view?usp=sharing)                                                        |
 |   **Taxi Dispatch AI**   |       `Solo dev`       |      `ElevenLabs`<br>`Twilio`<br>`Google Maps API`<br>`Neon`<br>`React Native`       |                  Inefficient manual dispatch and poor customer experience                  |                                                           `WIP`                                                            |    [📞 Call +1 (313) 631-4559](tel:+13136314559)     |                                                        [Demo](https://drive.google.com/file/d/1eAyrXYoADR8H9uIxngwmodngmYa878pX/view?usp=sharing)                                                        |
-
-</div>
 
 > _Everything you see is built, designed, and shipped by me._
 
@@ -107,15 +89,11 @@ As AI reshapes the world, I've focused on becoming a truly hybrid profile: someo
 
 ## ⚡ How I Work
 
-<div align="center">
-
 | 🎯 Goals                     | 🚫 Avoid                      | 💪 Strengths           | 📈 Growth           | 🎨 Style                      |
 | ---------------------------- | ----------------------------- | ---------------------- | ------------------- | ----------------------------- |
 | Building things fast         | Bureaucracy                   | Full-stack prototyping | Saying "no" earlier | Fall in love with the problem |
 | Working with ambitious teams | Ego-driven decisions          | Clear communication    | Delegating more     | Hands-on builder              |
 | Solving real user pain       | Over-polish before validating | Business-code balance  | Designing for scale | Clarity-obsessed              |
-
-</div>
 
 ---
 
